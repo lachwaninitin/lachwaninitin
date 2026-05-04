@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitinlachwani-blue?logo=linkedin)](https://www.linkedin.com/in/nitinlachwani/)
 [![Blog](https://img.shields.io/badge/Blog-mylearningcafe-orange?logo=blogger)](https://mylearningcafe.blogspot.com)
 [![Email](https://img.shields.io/badge/Email-nitin.lachwani%40yahoo.com-red?logo=yahoo)](mailto:nitin.lachwani@yahoo.com)
-
+[📄 Download Resume](./Nitin Lachwani Leadership 25 Yrs.pdf) 
 ---
 
 ## About Me
